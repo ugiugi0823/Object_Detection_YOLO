@@ -142,6 +142,7 @@
 - Common Objects in Context
 - 200,000개의 이미지 
 - 80개의 카테고리에 500,000개 이상의 객체 Annotation이 존재
+
       person
       bicycle
       car
@@ -230,6 +231,7 @@
 
 
 # 객체 탐지 (Object Detection)의 역사
+
 
 
 
