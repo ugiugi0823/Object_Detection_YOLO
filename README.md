@@ -233,6 +233,8 @@
 # 객체 탐지 (Object Detection)의 역사
 
 
+<img src="https://user-images.githubusercontent.com/106899647/216827395-a13bf078-281a-4e64-904b-87a2359a97a7.png">
+
 
 
 
@@ -383,6 +385,6 @@
 
   
   
-  
+  <img src="https://user-images.githubusercontent.com/106899647/216827558-af9cd6fc-00e3-4244-ba51-92f090af577f.png">
   
   
